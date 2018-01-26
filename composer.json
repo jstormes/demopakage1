@@ -8,7 +8,7 @@
     ],
     "autoload": {
         "psr-4": {
-            "Vendor\\Namespace\\": ""
+            "jstormes\\demopackage1\\": ""
         }
     },
     "require": {}
