@@ -6,5 +6,10 @@
             "email": "jstormes@stormes.net"
         }
     ],
+    "autoload": {
+        "psr-4": {
+            "Vendor\\Namespace\\": ""
+        }
+    },
     "require": {}
 }
